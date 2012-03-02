@@ -89,7 +89,7 @@ to verify all good, run:
 
 #### Installing spf13-vim on Windows
 
-The easiest way is to download and run the spf13-vim-windows-install.cmd file.
+The easiest way is to download and run the spf13-vim-windows-install.cmd file. Ensure you run this inside an Admistrator console.
 
 ## Updating to the latest version
 
